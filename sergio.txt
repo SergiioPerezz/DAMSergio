@@ -1,0 +1,4 @@
+Bases de datos: porque es lo que estamos viendo actualmente(oracle sql)
+Progra: un .java con un ejercicio IF sencillo
+Sis: Ejercicio del año pasado, este año no tengo sistemas gracias a dios
+Ed: uno de los primeros ejercicios que hicimos
