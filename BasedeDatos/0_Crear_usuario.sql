@@ -1,4 +1,4 @@
-/*
+﻿/*
 connect
 Enter user-name: sys as sysdba;
 Enter password: MANAGER;
@@ -14,6 +14,8 @@ quota 100M ON system;
 /* Concedemos usuarios permiso para conectarse */
 
 GRANT CREATE SESSION TO usuario;
+/*gfgfgfgfgfgfd */
+asajshajshajhsaja
 
 /* Concedemos permiso para crear tablas y vistas al usuario */
 
